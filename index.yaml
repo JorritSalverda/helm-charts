@@ -2,8 +2,19 @@ apiVersion: v1
 entries:
   evohome-bigquery-exporter:
   - apiVersion: v2
+    appVersion: 0.1.37
+    created: "2020-08-13T08:27:09.910705134Z"
+    description: A Helm chart for Kubernetes
+    digest: c30179a5aad5c3d7ae0763839a7e4495bace6c56412fbf1159e4ebb811b16f80
+    home: https://helm.jorritsalverda.com
+    name: evohome-bigquery-exporter
+    type: application
+    urls:
+    - https://helm.estafette.io/charts/evohome-bigquery-exporter-0.1.37.tgz
+    version: 0.1.37
+  - apiVersion: v2
     appVersion: 0.1.35
-    created: "2020-08-13T08:00:42.69338419Z"
+    created: "2020-08-13T08:27:09.910163022Z"
     description: A Helm chart for Kubernetes
     digest: 3b29687eba26d3d9cecf8bcbcdcd0d78d174de80198b1dd637ebf7b3ead71a25
     home: https://helm.jorritsalverda.com
@@ -12,4 +23,4 @@ entries:
     urls:
     - https://helm.estafette.io/charts/evohome-bigquery-exporter-0.1.35.tgz
     version: 0.1.35
-generated: "2020-08-13T08:00:42.692620861Z"
+generated: "2020-08-13T08:27:09.909375856Z"
