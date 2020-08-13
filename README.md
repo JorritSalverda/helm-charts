@@ -20,6 +20,7 @@ From here on you can install or upgrade helm charts as follows
 
 ```bash
 helm upgrade --install evohome-bigquery-exporter jorritsalverda/evohome-bigquery-exporter --namespace evohome-bigquery-exporter --wait
+helm upgrade --install evohome-hgi80-listener jorritsalverda/evohome-hgi80-listener --namespace evohome-bigquery-exporter --wait
 ```
 
 ## Local testing
@@ -58,5 +59,6 @@ From here on you can follow the steps as documented in the installation section 
 # Charts
 
 | Chart                                                                                    | Description                                                                   |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [evohome-bigquery-exporter](https://github.com/JorritSalverda/evohome-bigquery-exporter) | Reads zone temperatures from the public EvoHome api and stores it in BigQuery |
+| [evohome-hgi80-listener](https://github.com/JorritSalverda/evohome-hgi80-listener)       | Reads heat demand from an Evohome system from an HGI80 connected via USB      |
