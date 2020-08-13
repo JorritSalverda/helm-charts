@@ -22,7 +22,7 @@ From here on you can install or upgrade helm charts as follows
 helm upgrade --install evohome-bigquery-exporter jorritsalverda/evohome-bigquery-exporter --namespace evohome-bigquery-exporter --wait
 helm upgrade --install evohome-hgi80-listener jorritsalverda/evohome-hgi80-listener --namespace evohome-bigquery-exporter --wait
 helm upgrade --install p1-bigquery-exporter jorritsalverda/p1-bigquery-exporter --namespace p1-bigquery-exporter --wait
-
+helm upgrade --install tp-link-hs110-bigquery-exporter jorritsalverda/tp-link-hs110-bigquery-exporter -n tp-link-hs110-bigquery-exporter --wait
 ```
 
 ## Local testing
@@ -60,8 +60,11 @@ From here on you can follow the steps as documented in the installation section 
 
 # Charts
 
-| Chart                                                                                    | Description                                                                   |
-| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [evohome-bigquery-exporter](https://github.com/JorritSalverda/evohome-bigquery-exporter) | Reads zone temperatures from the public EvoHome api and stores it in BigQuery |
-| [evohome-hgi80-listener](https://github.com/JorritSalverda/evohome-hgi80-listener)       | Reads heat demand from an Evohome system from an HGI80 connected via USB      |
-| [p1-bigquery-exporter](https://github.com/JorritSalverda/p1-bigquery-exporter)           | Reads meter readings from Dutch smart meters through a P1 to USB connection   |
+| Chart                                                                                                | Description                                                                           |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [evohome-bigquery-exporter](https://github.com/JorritSalverda/evohome-bigquery-exporter)             | Reads zone temperatures from the public EvoHome api and stores it in BigQuery         |
+| [evohome-hgi80-listener](https://github.com/JorritSalverda/evohome-hgi80-listener)                   | Reads heat demand from an Evohome system from an HGI80 connected via USB              |
+| [p1-bigquery-exporter](https://github.com/JorritSalverda/p1-bigquery-exporter)                       | Reads meter readings from Dutch smart meters through a P1 to USB connection           |
+| [tp-link-hs110-bigquery-exporter](https://github.com/JorritSalverda/tp-link-hs110-bigquery-exporter) | Reads energy usage metrics from TP-Link HS110 power plugs and stores them in BigQuery |   |
+
+
