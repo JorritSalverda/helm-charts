@@ -54,3 +54,9 @@ helm init --service-account tiller --wait
 ```
 
 From here on you can follow the steps as documented in the installation section above.
+
+# Charts
+
+| Chart                                                                                    | Description                                                                   |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [evohome-bigquery-exporter](https://github.com/JorritSalverda/evohome-bigquery-exporter) | Reads zone temperatures from the public EvoHome api and stores it in BigQuery |
