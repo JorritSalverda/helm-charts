@@ -3,7 +3,7 @@ entries:
   evohome-bigquery-exporter:
   - apiVersion: v2
     appVersion: 0.1.44
-    created: "2020-08-17T07:18:51.847234647Z"
+    created: "2020-08-17T07:20:39.695426938Z"
     description: A Helm chart for Kubernetes
     digest: a58c48c2e2c65bd676765f6001e16eb0c3ec7c8181d347443dd7bbe03a90c38d
     home: https://helm.jorritsalverda.com
@@ -14,7 +14,7 @@ entries:
     version: 0.1.44
   - apiVersion: v2
     appVersion: 0.1.43
-    created: "2020-08-17T07:18:51.846677666Z"
+    created: "2020-08-17T07:20:39.694862953Z"
     description: A Helm chart for Kubernetes
     digest: 3404faffd93e4e8aaf93837c2e01f0b4131e187a4389f0d284a464b790d28d5c
     home: https://helm.jorritsalverda.com
@@ -25,7 +25,7 @@ entries:
     version: 0.1.43
   - apiVersion: v2
     appVersion: 0.1.42
-    created: "2020-08-17T07:18:51.845866219Z"
+    created: "2020-08-17T07:20:39.694312274Z"
     description: A Helm chart for Kubernetes
     digest: 7f57cbf18a2b9b603e0d8fee1a1a4ab8dda559be84c2cd206e24ea7f9aa7571f
     home: https://helm.jorritsalverda.com
@@ -36,7 +36,7 @@ entries:
     version: 0.1.42
   - apiVersion: v2
     appVersion: 0.1.41
-    created: "2020-08-17T07:18:51.844226767Z"
+    created: "2020-08-17T07:20:39.693667177Z"
     description: A Helm chart for Kubernetes
     digest: 8aadf6d43bf54dcb4b1284556613a7aca3b2b1e403bf667135eb7a687f4bfeab
     home: https://helm.jorritsalverda.com
@@ -47,7 +47,7 @@ entries:
     version: 0.1.41
   - apiVersion: v2
     appVersion: 0.1.40
-    created: "2020-08-17T07:18:51.843358042Z"
+    created: "2020-08-17T07:20:39.693119685Z"
     description: A Helm chart for Kubernetes
     digest: 179e8113864d0cd72c8a50f5256e0ff57e92f313a80cd467dc1b78a5249ffae2
     home: https://helm.jorritsalverda.com
@@ -58,7 +58,7 @@ entries:
     version: 0.1.40
   - apiVersion: v2
     appVersion: 0.1.39
-    created: "2020-08-17T07:18:51.842781476Z"
+    created: "2020-08-17T07:20:39.692519558Z"
     description: A Helm chart for Kubernetes
     digest: e6b50bf52fdcd0bbec2fb6cf053fabde6ad09a9d9fa18b8149df9afea990e1fb
     home: https://helm.jorritsalverda.com
@@ -69,7 +69,7 @@ entries:
     version: 0.1.39
   - apiVersion: v2
     appVersion: 0.1.38
-    created: "2020-08-17T07:18:51.842217109Z"
+    created: "2020-08-17T07:20:39.691970562Z"
     description: A Helm chart for Kubernetes
     digest: 9456d5868278c1d4365b199963060636369eaa829b712291584ff4b72da11d52
     home: https://helm.jorritsalverda.com
@@ -80,7 +80,7 @@ entries:
     version: 0.1.38
   - apiVersion: v2
     appVersion: 0.1.37
-    created: "2020-08-17T07:18:51.841695687Z"
+    created: "2020-08-17T07:20:39.691265794Z"
     description: A Helm chart for Kubernetes
     digest: c30179a5aad5c3d7ae0763839a7e4495bace6c56412fbf1159e4ebb811b16f80
     home: https://helm.jorritsalverda.com
@@ -91,7 +91,7 @@ entries:
     version: 0.1.37
   - apiVersion: v2
     appVersion: 0.1.35
-    created: "2020-08-17T07:18:51.841150331Z"
+    created: "2020-08-17T07:20:39.690659224Z"
     description: A Helm chart for Kubernetes
     digest: 3b29687eba26d3d9cecf8bcbcdcd0d78d174de80198b1dd637ebf7b3ead71a25
     home: https://helm.jorritsalverda.com
@@ -103,7 +103,7 @@ entries:
   evohome-hgi80-listener:
   - apiVersion: v2
     appVersion: 0.1.122
-    created: "2020-08-17T07:18:51.847751611Z"
+    created: "2020-08-17T07:20:39.696030785Z"
     description: A Helm chart for Kubernetes
     digest: e7f26f1234ecdc4a3703acc299ca929343fa284f09de0e00d50a592c0be8f180
     home: https://helm.jorritsalverda.com
@@ -115,7 +115,7 @@ entries:
   p1-bigquery-exporter:
   - apiVersion: v2
     appVersion: 0.1.14
-    created: "2020-08-17T07:18:51.849361214Z"
+    created: "2020-08-17T07:20:39.697844364Z"
     description: A Helm chart for Kubernetes
     digest: da3e1ccdffb27826e32fb9a3c70bb2c053825a9d96ab99617bc5d7bc75cc548a
     home: https://helm.jorritsalverda.com
@@ -126,7 +126,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.13
-    created: "2020-08-17T07:18:51.848815462Z"
+    created: "2020-08-17T07:20:39.697196003Z"
     description: A Helm chart for Kubernetes
     digest: d59f10eecb7e8adcd5fc5e77d6c516e162c9a2b2c0e57c75e3f661e50bd5a561
     home: https://helm.jorritsalverda.com
@@ -137,7 +137,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.12
-    created: "2020-08-17T07:18:51.84826046Z"
+    created: "2020-08-17T07:20:39.696603999Z"
     description: A Helm chart for Kubernetes
     digest: 10c853578474e929e423307ed2058427f4d06fc31ebc726c2e205627f713c7a4
     home: https://helm.jorritsalverda.com
@@ -148,8 +148,19 @@ entries:
     version: 0.1.12
   tp-link-hs110-bigquery-exporter:
   - apiVersion: v2
+    appVersion: 0.1.19
+    created: "2020-08-17T07:20:39.703447831Z"
+    description: A Helm chart for Kubernetes
+    digest: cea19c48d2584bdd1b7e9e67ce0c56adc75c2ff1a6a0546e73344e1a8c0aa5cf
+    home: https://helm.jorritsalverda.com
+    name: tp-link-hs110-bigquery-exporter
+    type: application
+    urls:
+    - https://helm.jorritsalverda.com/charts/tp-link-hs110-bigquery-exporter-0.1.19.tgz
+    version: 0.1.19
+  - apiVersion: v2
     appVersion: 0.1.18
-    created: "2020-08-17T07:18:51.850853226Z"
+    created: "2020-08-17T07:20:39.702855347Z"
     description: A Helm chart for Kubernetes
     digest: df022b5e8b5ba7fb0405115680e8dcba45cc661eff80176c81c434e2f1286eed
     home: https://helm.jorritsalverda.com
@@ -160,7 +171,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.17
-    created: "2020-08-17T07:18:51.850335212Z"
+    created: "2020-08-17T07:20:39.701802785Z"
     description: A Helm chart for Kubernetes
     digest: d0ef83ddb908cc11e8235d1354dce2253e589d9a4b08c5d774f0f9ff6dc35b65
     home: https://helm.jorritsalverda.com
@@ -171,7 +182,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.16
-    created: "2020-08-17T07:18:51.849879598Z"
+    created: "2020-08-17T07:20:39.698394163Z"
     description: A Helm chart for Kubernetes
     digest: cb75f5ab55ad57ec290629497840fef6ea861879a3d45c6e83b9b311221f1486
     home: https://helm.jorritsalverda.com
@@ -180,4 +191,4 @@ entries:
     urls:
     - https://helm.jorritsalverda.com/charts/tp-link-hs110-bigquery-exporter-0.1.16.tgz
     version: 0.1.16
-generated: "2020-08-17T07:18:51.840438662Z"
+generated: "2020-08-17T07:20:39.689794413Z"
