@@ -19,11 +19,10 @@ helm search repo jorritsalverda
 From here on you can install or upgrade helm charts as follows
 
 ```bash
-helm upgrade --install evohome-bigquery-exporter jorritsalverda/evohome-bigquery-exporter --namespace evohome-bigquery-exporter --wait
-helm upgrade --install evohome-hgi80-listener jorritsalverda/evohome-hgi80-listener --namespace evohome-bigquery-exporter --wait
-helm upgrade --install p1-bigquery-exporter jorritsalverda/p1-bigquery-exporter --namespace p1-bigquery-exporter --wait
-helm upgrade --install tp-link-hs110-bigquery-exporter jorritsalverda/tp-link-hs110-bigquery-exporter -n tp-link-hs110-bigquery-exporter --wait
-helm upgrade --install sunny-bigquery-exporter jorritsalverda/sunny-bigquery-exporter -n sunny-bigquery-exporter --wait
+helm upgrade --install jarvis-modbus-exporter jorritsalverda/jarvis-modbus-exporter --namespace jarvis --wait
+helm upgrade --install jarvis-p1-exporter jorritsalverda/jarvis-p1-exporter --namespace jarvis --wait
+helm upgrade --install jarvis-tp-link-hs-110-exporter jorritsalverda/jarvis-tp-link-hs-110-exporter --namespace jarvis --wait
+helm upgrade --install jarvis-alpha-innotec-exporter jorritsalverda/jarvis-alpha-innotec-exporter --namespace jarvis --wait
 ```
 
 ## Local testing
@@ -61,13 +60,9 @@ From here on you can follow the steps as documented in the installation section 
 
 # Charts
 
-| Chart                                                                                                | Description                                                                               |
-| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [jarvis-modbus-exporter](https://github.com/JorritSalverda/jarvis-modbus-exporter)                   | Reads values from a Modbus TCP enabled device and stores it in Jarvis' format in BigQuery |
-| [jarvis-alpha-innotec-exporter](https://github.com/JorritSalverda/jarvis-alpha-innotec-exporter)     | Reads values from an Alpha Innotec heatpump and stores it in Jarvis' format in BigQuery   |
-| [jarvis-p1-exporter](https://github.com/JorritSalverda/jarvis-p1-exporter)                           | Reads values from a P1 smart meter and stores it in Jarvis' format in BigQuery            |
-| [evohome-bigquery-exporter](https://github.com/JorritSalverda/evohome-bigquery-exporter)             | Reads zone temperatures from the public EvoHome api and stores it in BigQuery             |
-| [evohome-hgi80-listener](https://github.com/JorritSalverda/evohome-hgi80-listener)                   | Reads heat demand from an Evohome system from an HGI80 connected via USB                  |
-| [p1-bigquery-exporter](https://github.com/JorritSalverda/p1-bigquery-exporter)                       | Reads meter readings from Dutch smart meters through a P1 to USB connection               |
-| [tp-link-hs110-bigquery-exporter](https://github.com/JorritSalverda/tp-link-hs110-bigquery-exporter) | Reads energy usage metrics from TP-Link HS110 power plugs and stores them in BigQuery     |
-| [sunny-bigquery-exporter](https://github.com/JorritSalverda/sunny-bigquery-exporter)                 | Reads power yield SMA Sunny inverter and stores it in BigQuery                            |
+| Chart                                                                                                | Description                                                                                               |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [jarvis-modbus-exporter](https://github.com/JorritSalverda/jarvis-modbus-exporter)                   | Reads values from a Modbus TCP enabled device and stores it in Jarvis' format in BigQuery                 |
+| [jarvis-p1-exporter](https://github.com/JorritSalverda/jarvis-p1-exporter)                           | Reads values from a P1 smart meter and stores it in Jarvis' format in BigQuery                            |
+| [jarvis-tp-link-hs-110-exporter](https://github.com/JorritSalverda/jarvis-tp-link-hs-110-exporter)   | Reads energy usage metrics from TP-Link HS110 power plugs and and stores it in Jarvis' format in BigQuery |
+| [jarvis-alpha-innotec-exporter](https://github.com/JorritSalverda/jarvis-alpha-innotec-exporter)     | Reads values from an Alpha Innotec heatpump and stores it in Jarvis' format in BigQuery                   |
