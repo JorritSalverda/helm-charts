@@ -3,7 +3,7 @@ entries:
   evohome-bigquery-exporter:
   - apiVersion: v2
     appVersion: 0.1.47
-    created: "2021-05-12T14:16:48.803625293Z"
+    created: "2021-05-12T14:28:23.621705423Z"
     description: Stores Evohome zone temperatures in Google BigQuery
     digest: 2a49f564bcc7fec74a62b36eb97684f45b294d8b518a1e3388177a492560082a
     home: https://helm.jorritsalverda.com
@@ -14,7 +14,7 @@ entries:
     version: 0.1.47
   - apiVersion: v2
     appVersion: 0.1.46
-    created: "2021-05-12T14:16:48.801834817Z"
+    created: "2021-05-12T14:28:23.620017378Z"
     description: A Helm chart for Kubernetes
     digest: 36c0891182ca7b356fe38ec5385544a74ba1217274207c2b2eba0017e3d27931
     home: https://helm.jorritsalverda.com
@@ -25,7 +25,7 @@ entries:
     version: 0.1.46
   - apiVersion: v2
     appVersion: 0.1.45
-    created: "2021-05-12T14:16:48.800084025Z"
+    created: "2021-05-12T14:28:23.618265387Z"
     description: A Helm chart for Kubernetes
     digest: 0b387dc44db88d723be9da4720de2bd48d687a73acb6a39b3b10e68e1fa2959b
     home: https://helm.jorritsalverda.com
@@ -36,7 +36,7 @@ entries:
     version: 0.1.45
   - apiVersion: v2
     appVersion: 0.1.44
-    created: "2021-05-12T14:16:48.798220411Z"
+    created: "2021-05-12T14:28:23.616482459Z"
     description: A Helm chart for Kubernetes
     digest: a58c48c2e2c65bd676765f6001e16eb0c3ec7c8181d347443dd7bbe03a90c38d
     home: https://helm.jorritsalverda.com
@@ -47,7 +47,7 @@ entries:
     version: 0.1.44
   - apiVersion: v2
     appVersion: 0.1.43
-    created: "2021-05-12T14:16:48.796470231Z"
+    created: "2021-05-12T14:28:23.614691828Z"
     description: A Helm chart for Kubernetes
     digest: 3404faffd93e4e8aaf93837c2e01f0b4131e187a4389f0d284a464b790d28d5c
     home: https://helm.jorritsalverda.com
@@ -58,7 +58,7 @@ entries:
     version: 0.1.43
   - apiVersion: v2
     appVersion: 0.1.42
-    created: "2021-05-12T14:16:48.737218435Z"
+    created: "2021-05-12T14:28:23.61286803Z"
     description: A Helm chart for Kubernetes
     digest: 7f57cbf18a2b9b603e0d8fee1a1a4ab8dda559be84c2cd206e24ea7f9aa7571f
     home: https://helm.jorritsalverda.com
@@ -69,7 +69,7 @@ entries:
     version: 0.1.42
   - apiVersion: v2
     appVersion: 0.1.41
-    created: "2021-05-12T14:16:48.735581137Z"
+    created: "2021-05-12T14:28:23.611042587Z"
     description: A Helm chart for Kubernetes
     digest: 8aadf6d43bf54dcb4b1284556613a7aca3b2b1e403bf667135eb7a687f4bfeab
     home: https://helm.jorritsalverda.com
@@ -80,7 +80,7 @@ entries:
     version: 0.1.41
   - apiVersion: v2
     appVersion: 0.1.40
-    created: "2021-05-12T14:16:48.733973815Z"
+    created: "2021-05-12T14:28:23.609298539Z"
     description: A Helm chart for Kubernetes
     digest: 179e8113864d0cd72c8a50f5256e0ff57e92f313a80cd467dc1b78a5249ffae2
     home: https://helm.jorritsalverda.com
@@ -91,7 +91,7 @@ entries:
     version: 0.1.40
   - apiVersion: v2
     appVersion: 0.1.39
-    created: "2021-05-12T14:16:48.732422891Z"
+    created: "2021-05-12T14:28:23.607535832Z"
     description: A Helm chart for Kubernetes
     digest: e6b50bf52fdcd0bbec2fb6cf053fabde6ad09a9d9fa18b8149df9afea990e1fb
     home: https://helm.jorritsalverda.com
@@ -102,7 +102,7 @@ entries:
     version: 0.1.39
   - apiVersion: v2
     appVersion: 0.1.38
-    created: "2021-05-12T14:16:48.730908411Z"
+    created: "2021-05-12T14:28:23.605835667Z"
     description: A Helm chart for Kubernetes
     digest: 9456d5868278c1d4365b199963060636369eaa829b712291584ff4b72da11d52
     home: https://helm.jorritsalverda.com
@@ -113,7 +113,7 @@ entries:
     version: 0.1.38
   - apiVersion: v2
     appVersion: 0.1.37
-    created: "2021-05-12T14:16:48.72919147Z"
+    created: "2021-05-12T14:28:23.604284647Z"
     description: A Helm chart for Kubernetes
     digest: c30179a5aad5c3d7ae0763839a7e4495bace6c56412fbf1159e4ebb811b16f80
     home: https://helm.jorritsalverda.com
@@ -124,7 +124,7 @@ entries:
     version: 0.1.37
   - apiVersion: v2
     appVersion: 0.1.35
-    created: "2021-05-12T14:16:48.725636151Z"
+    created: "2021-05-12T14:28:23.602204545Z"
     description: A Helm chart for Kubernetes
     digest: 3b29687eba26d3d9cecf8bcbcdcd0d78d174de80198b1dd637ebf7b3ead71a25
     home: https://helm.jorritsalverda.com
@@ -136,7 +136,7 @@ entries:
   evohome-hgi80-listener:
   - apiVersion: v2
     appVersion: 0.1.125
-    created: "2021-05-12T14:16:48.81033245Z"
+    created: "2021-05-12T14:28:23.632149048Z"
     description: Listens for Evohome communication through the HGI80 device and stores heat demand in a configmap, to be used by jorritsalverda/evohome-bigquery-exporter
     digest: 0cfe3e0693469170f609aa30daaebab1d7ad217bc07ec1bc90a78769e6d5e806
     home: https://helm.jorritsalverda.com
@@ -147,7 +147,7 @@ entries:
     version: 0.1.125
   - apiVersion: v2
     appVersion: 0.1.124
-    created: "2021-05-12T14:16:48.808685888Z"
+    created: "2021-05-12T14:28:23.628936575Z"
     description: Listens for Evohome communication through the HGI80 device and stores heat demand in a configmap, to be used by jorritsalverda/evohome-bigquery-exporter
     digest: a9afbd5ad790fb5448e14014bed6fca507786c21fa1edf0fee07a6464716aec9
     home: https://helm.jorritsalverda.com
@@ -158,7 +158,7 @@ entries:
     version: 0.1.124
   - apiVersion: v2
     appVersion: 0.1.123
-    created: "2021-05-12T14:16:48.807047726Z"
+    created: "2021-05-12T14:28:23.626542079Z"
     description: A Helm chart for Kubernetes
     digest: e5c2255d611062ed07f8d86e551f778ab61a4881552a4f1164b9a4c3b3f44483
     home: https://helm.jorritsalverda.com
@@ -169,7 +169,7 @@ entries:
     version: 0.1.123
   - apiVersion: v2
     appVersion: 0.1.122
-    created: "2021-05-12T14:16:48.805298722Z"
+    created: "2021-05-12T14:28:23.624031869Z"
     description: A Helm chart for Kubernetes
     digest: e7f26f1234ecdc4a3703acc299ca929343fa284f09de0e00d50a592c0be8f180
     home: https://helm.jorritsalverda.com
@@ -181,7 +181,7 @@ entries:
   jarvis-alpha-innotec-exporter:
   - apiVersion: v2
     appVersion: 0.1.14
-    created: "2021-05-12T14:16:48.816314377Z"
+    created: "2021-05-12T14:28:23.697963099Z"
     description: Stores Alpha Innotec heatpump readings in BigQuery
     digest: 6b2efd78879206e8f79681162847f5c567326865ca55ce48380d6b9e1e8e9a3a
     home: https://helm.jorritsalverda.com
@@ -192,7 +192,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.11
-    created: "2021-05-12T14:16:48.813856198Z"
+    created: "2021-05-12T14:28:23.634020893Z"
     description: Stores Alpha Innotec heatpump readings in BigQuery
     digest: 38c7f26f931cc6a1d1a7915f4497cf27b6441fb456e9b5a4c60006bea4daff33
     home: https://helm.jorritsalverda.com
@@ -203,7 +203,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.9
-    created: "2021-05-12T14:16:48.833682932Z"
+    created: "2021-05-12T14:28:23.71268378Z"
     description: Stores Alpha Innotec heatpump readings in BigQuery
     digest: a8a2ede9981a485e1d992c3196f6c49c1b4299f3821d5ffc4eefa39537265da1
     home: https://helm.jorritsalverda.com
@@ -214,7 +214,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2021-05-12T14:16:48.831860213Z"
+    created: "2021-05-12T14:28:23.710888422Z"
     description: Stores Alpha Innotec heatpump readings in BigQuery
     digest: 31b64cd0663a50d6137a29a685f51d77dac30bfc87e34c448d63b2533ffa2e27
     home: https://helm.jorritsalverda.com
@@ -225,7 +225,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2021-05-12T14:16:48.830076529Z"
+    created: "2021-05-12T14:28:23.709021568Z"
     description: Stores Alpha Innotec heatpump readings in BigQuery
     digest: f64f68421a61ad0bd7673dde6c0450824364ccd96355df787c7ded2feffdb74f
     home: https://helm.jorritsalverda.com
@@ -236,7 +236,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2021-05-12T14:16:48.828317086Z"
+    created: "2021-05-12T14:28:23.707196641Z"
     description: Stores Alpha Innotec heatpump readings in BigQuery
     digest: 7d6797e59663f69ed6db5ecdd69914277177843f334ceb14962858bd53f5f35c
     home: https://helm.jorritsalverda.com
@@ -247,7 +247,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2021-05-12T14:16:48.826522902Z"
+    created: "2021-05-12T14:28:23.705432157Z"
     description: Stores Alpha Innotec heatpump readings in BigQuery
     digest: 3c6e9d1359212b8961c4965dad477c6b5a9fba3de6c17675b87fd32584fea5c1
     home: https://helm.jorritsalverda.com
@@ -258,7 +258,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2021-05-12T14:16:48.824833573Z"
+    created: "2021-05-12T14:28:23.70368427Z"
     description: Stores Alpha Innotec heatpump readings in BigQuery
     digest: 3c742cc589197d2375fec820ec3314e4c3bd16d7dbdf7e63b654eea1a965ab1e
     home: https://helm.jorritsalverda.com
@@ -269,7 +269,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2021-05-12T14:16:48.82313018Z"
+    created: "2021-05-12T14:28:23.701769993Z"
     description: Stores Alpha Innotec heatpump readings in BigQuery
     digest: 44b1c32de59ad7c542d31d4ac78cd1b2a17d818bb38b19ed94b11897ec541b0d
     home: https://helm.jorritsalverda.com
@@ -280,7 +280,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2021-05-12T14:16:48.818666178Z"
+    created: "2021-05-12T14:28:23.699927595Z"
     description: Stores Alpha Innotec heatpump readings in BigQuery
     digest: 8d4367cab88785ce72eb18f3a268c580b07d448fd01fa8f02b7c3b2b71d573b2
     home: https://helm.jorritsalverda.com
@@ -292,7 +292,7 @@ entries:
   jarvis-electricity-mix-exporter:
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2021-05-12T14:16:49.01918844Z"
+    created: "2021-05-12T14:28:23.833169235Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: bafc71513f25bc6f6dc7415370df2576503adbd700dea8f417929bd496ef4c08
     home: https://helm.jorritsalverda.com
@@ -303,7 +303,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2021-05-12T14:16:49.017424268Z"
+    created: "2021-05-12T14:28:23.831428079Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: cbb4d7594a0f66c6ed5f9d5f6cde37bb7f18a11ddb65d28c90c77308e9c6363a
     home: https://helm.jorritsalverda.com
@@ -314,7 +314,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2021-05-12T14:16:49.015750515Z"
+    created: "2021-05-12T14:28:23.82973059Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 43aa340a6f28960b5031d79e6dbf4ae53871cef41935dce415130c4c44bf5853
     home: https://helm.jorritsalverda.com
@@ -325,7 +325,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.29
-    created: "2021-05-12T14:16:48.997157766Z"
+    created: "2021-05-12T14:28:23.816465818Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 009e3aaf1dd18a97c79dfeeaf4ce4ed6d12785828284a7eb5eb55e4251dadb02
     home: https://helm.jorritsalverda.com
@@ -336,7 +336,7 @@ entries:
     version: 0.1.29
   - apiVersion: v2
     appVersion: 0.1.28
-    created: "2021-05-12T14:16:48.937818888Z"
+    created: "2021-05-12T14:28:23.814543442Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 4bea6578eed212c7607bf1641a9601c3e1beb6bd8a057960f5f29d3217f7aa40
     home: https://helm.jorritsalverda.com
@@ -347,7 +347,7 @@ entries:
     version: 0.1.28
   - apiVersion: v2
     appVersion: 0.1.27
-    created: "2021-05-12T14:16:48.936107263Z"
+    created: "2021-05-12T14:28:23.812788114Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: a39fb44402587907855f12eb6a953c7c912a0653f599451a5ce443d913d35446
     home: https://helm.jorritsalverda.com
@@ -358,7 +358,7 @@ entries:
     version: 0.1.27
   - apiVersion: v2
     appVersion: 0.1.26
-    created: "2021-05-12T14:16:48.93428164Z"
+    created: "2021-05-12T14:28:23.810710436Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 548e64434efb645703a788dc8b110f8540fc8eb9b0ca046dfea1b63b7a62e247
     home: https://helm.jorritsalverda.com
@@ -369,7 +369,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 0.1.25
-    created: "2021-05-12T14:16:48.932497009Z"
+    created: "2021-05-12T14:28:23.808860706Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 0ad7b49b02344dbff5a42ef3c718267e94547be92408c531d28e8f06ab9707fb
     home: https://helm.jorritsalverda.com
@@ -380,7 +380,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: 0.1.24
-    created: "2021-05-12T14:16:48.930702358Z"
+    created: "2021-05-12T14:28:23.807071203Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: a333b45ef289511cb815ddc123b2c10e480a84c5c248f9d103ba63240ed7f5d0
     home: https://helm.jorritsalverda.com
@@ -391,7 +391,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: 0.1.23
-    created: "2021-05-12T14:16:48.927506372Z"
+    created: "2021-05-12T14:28:23.80469611Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 7b48012ff3b4dc855fa6a92f32b7414eaf1d79ca89da7952c0c407e658756a1f
     home: https://helm.jorritsalverda.com
@@ -402,7 +402,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: 0.1.22
-    created: "2021-05-12T14:16:48.9249035Z"
+    created: "2021-05-12T14:28:23.802280999Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 38318213eeea3eb6dfcb4730bd51be14079013ebf480a0a86e3a59cfcb684197
     home: https://helm.jorritsalverda.com
@@ -413,7 +413,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 0.1.21
-    created: "2021-05-12T14:16:48.922325599Z"
+    created: "2021-05-12T14:28:23.742711141Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: de2746139ae4c4a0883868b3a37ffd6892c9f3eeae96573c272c94c290795876
     home: https://helm.jorritsalverda.com
@@ -424,7 +424,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 0.1.20
-    created: "2021-05-12T14:16:48.919020895Z"
+    created: "2021-05-12T14:28:23.740225278Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 799f3fc514c651bdfb89f94e31fea3aeb0179274556dd77fda587e9b9e845558
     home: https://helm.jorritsalverda.com
@@ -435,7 +435,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: 0.1.19
-    created: "2021-05-12T14:16:48.915590722Z"
+    created: "2021-05-12T14:28:23.734309063Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: ad33ed4f211a25a68dbd36cc108fa34bc7e3818ee66a4fcb55b5140dfcfc5101
     home: https://helm.jorritsalverda.com
@@ -446,7 +446,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.18
-    created: "2021-05-12T14:16:48.913745Z"
+    created: "2021-05-12T14:28:23.731769886Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 6571cd0dc72391a7d8366fb47ae0578a5c8928c337703382d6df7a6ac781918f
     home: https://helm.jorritsalverda.com
@@ -457,7 +457,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.17
-    created: "2021-05-12T14:16:48.911807431Z"
+    created: "2021-05-12T14:28:23.728433023Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: eb3ba39ea5bd31523f437647f841f8a4680e189f3b25393bf2ccfa449bd5397b
     home: https://helm.jorritsalverda.com
@@ -468,7 +468,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.16
-    created: "2021-05-12T14:16:48.909676438Z"
+    created: "2021-05-12T14:28:23.726523522Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 1a17523db24016d967f290f74bf740b80f7e6c4bb348b26969bac90216016348
     home: https://helm.jorritsalverda.com
@@ -479,7 +479,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.15
-    created: "2021-05-12T14:16:48.907111149Z"
+    created: "2021-05-12T14:28:23.724712095Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 74f5b62d8a823520a2555b157b76901a96942d6513063fb3c61c953d501ed6cb
     home: https://helm.jorritsalverda.com
@@ -490,7 +490,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.14
-    created: "2021-05-12T14:16:48.904658958Z"
+    created: "2021-05-12T14:28:23.722965311Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: dce895b6e3406f154e0d7a694d1c895b6c9e55a791f3a577efd018ae6cdd62ba
     home: https://helm.jorritsalverda.com
@@ -501,7 +501,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.13
-    created: "2021-05-12T14:16:48.902301385Z"
+    created: "2021-05-12T14:28:23.721287454Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 1ffd9f2b365dc19a10dd724069c961bcb082a46a67f743964add387786cee594
     home: https://helm.jorritsalverda.com
@@ -512,7 +512,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.12
-    created: "2021-05-12T14:16:48.899784971Z"
+    created: "2021-05-12T14:28:23.71966254Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: e6ade72711d3957ef2c8d155ed1b00ff95a86597c38b1b5e36bc35202623719e
     home: https://helm.jorritsalverda.com
@@ -523,7 +523,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.11
-    created: "2021-05-12T14:16:48.838629709Z"
+    created: "2021-05-12T14:28:23.717844154Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 35c0bc593715b267d4ef88c4aecd5cf416c83754d4ae8ffe0fb11e6b6f810a92
     home: https://helm.jorritsalverda.com
@@ -534,7 +534,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.10
-    created: "2021-05-12T14:16:48.837063762Z"
+    created: "2021-05-12T14:28:23.716094238Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 78fa0d80425ede9960c1f483aaf08e9b8b2d7c493e79c81f9d535ec1b898b9bd
     home: https://helm.jorritsalverda.com
@@ -545,7 +545,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.9
-    created: "2021-05-12T14:16:49.014015526Z"
+    created: "2021-05-12T14:28:23.828099784Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 19301b88b41c0b491a21081f24332dbb672aa4f72c47dc5c59709800d86ec5a9
     home: https://helm.jorritsalverda.com
@@ -556,7 +556,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2021-05-12T14:16:49.012485986Z"
+    created: "2021-05-12T14:28:23.826473214Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: fab3f02a5293f584917a3401c2f22d585048ba00d154a9ba4ee4da39fe8b4758
     home: https://helm.jorritsalverda.com
@@ -567,7 +567,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2021-05-12T14:16:49.010867108Z"
+    created: "2021-05-12T14:28:23.824872948Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 0784fe0fb4f3f91b41576a7f0cbc6d57709c5fe2ecc3ffe0b1509bc2a40b511e
     home: https://helm.jorritsalverda.com
@@ -578,7 +578,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2021-05-12T14:16:49.008275767Z"
+    created: "2021-05-12T14:28:23.823281369Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: b64fa960e81d72d756d46136ee7f67a92c3bf4c792273c2aeab3a5d17ee128b2
     home: https://helm.jorritsalverda.com
@@ -589,7 +589,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2021-05-12T14:16:49.005701706Z"
+    created: "2021-05-12T14:28:23.82148961Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 37f2dfba42d4847cd63c7dd5cc9972da23fd42a0e9e46fbd16420d0f58e7ffb8
     home: https://helm.jorritsalverda.com
@@ -600,7 +600,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2021-05-12T14:16:49.003131281Z"
+    created: "2021-05-12T14:28:23.819792721Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 58070b94f597b51959c41e6b8548fa763a6dc15f1b42520c77d3d1d2bbda9b92
     home: https://helm.jorritsalverda.com
@@ -611,7 +611,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2021-05-12T14:16:49.0005847Z"
+    created: "2021-05-12T14:28:23.818142883Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 5a51954959052d1a2e2bd130ab04c1e4a7c1a405aaff8196adebb8a7c4c8feba
     home: https://helm.jorritsalverda.com
@@ -622,7 +622,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2021-05-12T14:16:48.917263312Z"
+    created: "2021-05-12T14:28:23.737626126Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 22ca0f06fcee81fbb38855a07e2b2a43c6bbb36e277dc4d13f7fb9867d34dd3a
     home: https://helm.jorritsalverda.com
@@ -633,7 +633,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2021-05-12T14:16:48.835404852Z"
+    created: "2021-05-12T14:28:23.714368585Z"
     description: Collects data from various public sources and stores the used electricity mix in BigQuery
     digest: 4669150915a48b222f1c472f956e979b21008eca761dc22e663731047c3769ea
     home: https://helm.jorritsalverda.com
@@ -645,7 +645,7 @@ entries:
   jarvis-modbus-exporter:
   - apiVersion: v2
     appVersion: 0.2.7
-    created: "2021-05-12T14:16:49.124704503Z"
+    created: "2021-05-12T14:28:24.012438826Z"
     description: Stores modbus readings in BigQuery
     digest: ed9595fac16f5f3cf8ff3c2c32134d98462256cc85045905a6e9a68e29dfaa5b
     home: https://helm.jorritsalverda.com
@@ -656,7 +656,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.2.6
-    created: "2021-05-12T14:16:49.123130947Z"
+    created: "2021-05-12T14:28:24.010513762Z"
     description: Stores modbus readings in BigQuery
     digest: 849ab5b8aa3642befe2f6ddf6a00b109c8961d80c2387bc2f80b1aa179650555
     home: https://helm.jorritsalverda.com
@@ -667,7 +667,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.2.5
-    created: "2021-05-12T14:16:49.121520829Z"
+    created: "2021-05-12T14:28:24.008567865Z"
     description: Stores modbus readings in BigQuery
     digest: a155bfa66c3dc9b431fd8880ccbdd33bf9888f3596d0bc1424e45db2bb9cf914
     home: https://helm.jorritsalverda.com
@@ -678,7 +678,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.1.24
-    created: "2021-05-12T14:16:49.111262241Z"
+    created: "2021-05-12T14:28:23.924928346Z"
     description: Stores modbus readings in BigQuery
     digest: 1dfa6657701e7059f36ca002e52eabcde604b461a0cbab4d4e31af53a301a7b9
     home: https://helm.jorritsalverda.com
@@ -689,7 +689,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: 0.1.19
-    created: "2021-05-12T14:16:49.104933856Z"
+    created: "2021-05-12T14:28:23.921694429Z"
     description: Stores modbus readings in BigQuery
     digest: 4b2faa3a117818eccb229e92782ef78df36c022243f34282e04ad683d6c0aaaa
     home: https://helm.jorritsalverda.com
@@ -700,7 +700,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.18
-    created: "2021-05-12T14:16:49.10152791Z"
+    created: "2021-05-12T14:28:23.919948941Z"
     description: Stores modbus readings in BigQuery
     digest: 15f7705148935948a50b65dba13aff44e77536ff72cc13efea91656c182fdbd0
     home: https://helm.jorritsalverda.com
@@ -711,7 +711,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.17
-    created: "2021-05-12T14:16:49.041717296Z"
+    created: "2021-05-12T14:28:23.918188046Z"
     description: Stores modbus readings in BigQuery
     digest: 2d172c91a18b8a0c13d200c8358896d5c64c4824084ae21f6016684b72548f3b
     home: https://helm.jorritsalverda.com
@@ -722,7 +722,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.16
-    created: "2021-05-12T14:16:49.03953876Z"
+    created: "2021-05-12T14:28:23.916528284Z"
     description: Stores modbus readings in BigQuery
     digest: 23268c1b18d4645c900bfe437b493b8aa92ad2d7252dcd0280494b92cadf3b52
     home: https://helm.jorritsalverda.com
@@ -733,7 +733,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.15
-    created: "2021-05-12T14:16:49.037168875Z"
+    created: "2021-05-12T14:28:23.914376844Z"
     description: Stores modbus readings in BigQuery
     digest: cb961e82a98b3021db70f03ef1456429562934e5f5dc516fc26d9625350ba9c5
     home: https://helm.jorritsalverda.com
@@ -744,7 +744,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.14
-    created: "2021-05-12T14:16:49.034881573Z"
+    created: "2021-05-12T14:28:23.911947176Z"
     description: Stores modbus readings in BigQuery
     digest: 36cff90db39a05db0a23c761cfb25c23f608e999a9c65482192854dd6e9b4728
     home: https://helm.jorritsalverda.com
@@ -755,7 +755,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.13
-    created: "2021-05-12T14:16:49.028266754Z"
+    created: "2021-05-12T14:28:23.9051811Z"
     description: Stores modbus readings in BigQuery
     digest: 0ef74e78b2442a42b80e42c8ccfe60ce580a7ead8bc7ed600bd4d206dff9336f
     home: https://helm.jorritsalverda.com
@@ -766,7 +766,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.12
-    created: "2021-05-12T14:16:49.025817971Z"
+    created: "2021-05-12T14:28:23.898110411Z"
     description: Stores modbus readings in BigQuery
     digest: fb0e4e5608bdd37db9397a4f84afc9603d956155e2f074e6380cc2d7d26542dd
     home: https://helm.jorritsalverda.com
@@ -777,7 +777,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.11
-    created: "2021-05-12T14:16:49.024259415Z"
+    created: "2021-05-12T14:28:23.838157868Z"
     description: Stores modbus readings in BigQuery
     digest: 5a2cb6ad547eff4c161cc4b8092571c54a22b58b199357e01aa912998d868145
     home: https://helm.jorritsalverda.com
@@ -788,7 +788,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.10
-    created: "2021-05-12T14:16:49.022511347Z"
+    created: "2021-05-12T14:28:23.836508198Z"
     description: Stores modbus readings in BigQuery
     digest: fdf4771462118d5966f2e50dac37575b3ee0a2add372797fcc7a296b39f324f0
     home: https://helm.jorritsalverda.com
@@ -799,7 +799,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2021-05-12T14:16:49.11990261Z"
+    created: "2021-05-12T14:28:24.003680523Z"
     description: Stores modbus readings in BigQuery
     digest: cc96c29a730671ab03373322bfe97ee5522779a35fb5a3bc5c814503d4dad803
     home: https://helm.jorritsalverda.com
@@ -810,7 +810,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2021-05-12T14:16:49.118232325Z"
+    created: "2021-05-12T14:28:23.998335282Z"
     description: Stores modbus readings in BigQuery
     digest: 9d727947344fbdaf9e9938c1e013c359363ff6785e3f4957aa851aa5ca9e4ec0
     home: https://helm.jorritsalverda.com
@@ -821,7 +821,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2021-05-12T14:16:49.116564727Z"
+    created: "2021-05-12T14:28:23.929891251Z"
     description: Stores modbus readings in BigQuery
     digest: e3549f0f93977749d64477079b6f159b76c5751768bb7f998557ea922cd11a51
     home: https://helm.jorritsalverda.com
@@ -832,7 +832,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2021-05-12T14:16:49.114851723Z"
+    created: "2021-05-12T14:28:23.928243369Z"
     description: Stores modbus readings in BigQuery
     digest: 48e576dbd64da995c41bead185b700a5637f4a07c1541290e415feb598b6b390
     home: https://helm.jorritsalverda.com
@@ -843,7 +843,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2021-05-12T14:16:49.113053124Z"
+    created: "2021-05-12T14:28:23.926576983Z"
     description: Stores modbus readings in BigQuery
     digest: 0e26c73d0f84382b26ad1b0eaa632855c9659089729713549fa9ee3bb25aabe9
     home: https://helm.jorritsalverda.com
@@ -854,7 +854,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2021-05-12T14:16:49.10857957Z"
+    created: "2021-05-12T14:28:23.923336659Z"
     description: Stores modbus readings in BigQuery
     digest: 95864a7a6bce9360a97c6745296af317b282c638b1176e1ed0f4158de155a4b4
     home: https://helm.jorritsalverda.com
@@ -865,7 +865,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2021-05-12T14:16:49.020917404Z"
+    created: "2021-05-12T14:28:23.834815029Z"
     description: Stores modbus readings in BigQuery
     digest: 1a43cf7925888c7babbdd95fa7adefcf46d6ab1961f9a788dc3edf365f8fa99a
     home: https://helm.jorritsalverda.com
@@ -877,7 +877,7 @@ entries:
   jarvis-p1-exporter:
   - apiVersion: v2
     appVersion: 0.1.11
-    created: "2021-05-12T14:16:49.129620933Z"
+    created: "2021-05-12T14:28:24.017663399Z"
     description: Stores modbus readings in BigQuery
     digest: ad628de1bd764c588e2ca2f9e41bb98aa50e1f7884c3986c130d2a3301844441
     home: https://helm.jorritsalverda.com
@@ -888,7 +888,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.10
-    created: "2021-05-12T14:16:49.128006458Z"
+    created: "2021-05-12T14:28:24.016001381Z"
     description: Stores modbus readings in BigQuery
     digest: 44f33ac665bfe2170bd0be00711f883888d975d731f5e8d70575495e9c73ffeb
     home: https://helm.jorritsalverda.com
@@ -899,7 +899,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.8-rust
-    created: "2021-05-12T14:16:49.199179953Z"
+    created: "2021-05-12T14:28:24.027425039Z"
     description: Stores modbus readings in BigQuery
     digest: d62cfddcfaf543cbc9cba8c8078e0c3fc03764f8e00f9850c117e8d14fedd43e
     home: https://helm.jorritsalverda.com
@@ -910,7 +910,7 @@ entries:
     version: 0.1.8-rust
   - apiVersion: v2
     appVersion: 0.1.7-rust
-    created: "2021-05-12T14:16:49.196880027Z"
+    created: "2021-05-12T14:28:24.025028983Z"
     description: Stores modbus readings in BigQuery
     digest: 27b1797f57104e65532916f283b972582b56164bc8251b6ed8cd322b27d83a94
     home: https://helm.jorritsalverda.com
@@ -921,7 +921,7 @@ entries:
     version: 0.1.7-rust
   - apiVersion: v2
     appVersion: 0.1.6-rust
-    created: "2021-05-12T14:16:49.134513567Z"
+    created: "2021-05-12T14:28:24.022628967Z"
     description: Stores modbus readings in BigQuery
     digest: 6892b6d05faabaca8ba64df5c5bbb9750f529cf9a029a095f77ba7aba65c1b33
     home: https://helm.jorritsalverda.com
@@ -932,7 +932,7 @@ entries:
     version: 0.1.6-rust
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2021-05-12T14:16:49.13293148Z"
+    created: "2021-05-12T14:28:24.020975086Z"
     description: Stores modbus readings in BigQuery
     digest: 259497a1997f0bea466d6c659c1c004bda73671d5d5af74d542f661dee920c4a
     home: https://helm.jorritsalverda.com
@@ -943,7 +943,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2021-05-12T14:16:49.131297482Z"
+    created: "2021-05-12T14:28:24.019347016Z"
     description: Stores modbus readings in BigQuery
     digest: ac32c7541189879bd3c7b9e531af3a73629d0f2747c7b11aad285a2eb666f11d
     home: https://helm.jorritsalverda.com
@@ -954,7 +954,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2021-05-12T14:16:49.126318557Z"
+    created: "2021-05-12T14:28:24.014221214Z"
     description: Stores modbus readings in BigQuery
     digest: 82ac6ecadfadd99671d5e9c830339d9306aa8be570e2e10a6eb638d77c658f8f
     home: https://helm.jorritsalverda.com
@@ -966,7 +966,7 @@ entries:
   jarvis-tp-link-hs-110-exporter:
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2021-05-12T14:16:49.220814309Z"
+    created: "2021-05-12T14:28:24.114047272Z"
     description: Stores modbus readings in BigQuery
     digest: 30d8ef64b5f852875292023ba11a4070b16db519b50602349bcbe85bb11a5562
     home: https://helm.jorritsalverda.com
@@ -977,7 +977,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2021-05-12T14:16:49.219213262Z"
+    created: "2021-05-12T14:28:24.112438138Z"
     description: Stores modbus readings in BigQuery
     digest: 54b3220710a0c31d2b676788453a8e4600fb76b108b1f865a11a78fa37937eab
     home: https://helm.jorritsalverda.com
@@ -988,9 +988,9 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4-rust
-    created: "2021-05-12T14:16:49.217534673Z"
+    created: "2021-05-12T14:28:24.110877722Z"
     description: Stores modbus readings in BigQuery
-    digest: d3d147bf949ac50b2ecf4ac085eddca74c2ee795b51961f594289466dc78b7d1
+    digest: 395825353cbd0d48b318a56a33a11ad52bfe68f6f8105d724a3ff0858b2fe3f1
     home: https://helm.jorritsalverda.com
     name: jarvis-tp-link-hs-110-exporter
     type: application
@@ -999,7 +999,7 @@ entries:
     version: 0.1.4-rust
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2021-05-12T14:16:49.214188235Z"
+    created: "2021-05-12T14:28:24.109129534Z"
     description: Stores modbus readings in BigQuery
     digest: 8e166f010e0b5fe0ee9ec90dbcbdecf31821cc9c0be453f40a29c5b4a4d86066
     home: https://helm.jorritsalverda.com
@@ -1010,7 +1010,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.3-rust
-    created: "2021-05-12T14:16:49.211898689Z"
+    created: "2021-05-12T14:28:24.107268957Z"
     description: Stores modbus readings in BigQuery
     digest: 8a75463aa91ed458a3f40d56e272cdf8bc3dbbe056f52c06a974ed4a66ec42c1
     home: https://helm.jorritsalverda.com
@@ -1021,7 +1021,7 @@ entries:
     version: 0.1.3-rust
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2021-05-12T14:16:49.209171606Z"
+    created: "2021-05-12T14:28:24.101756138Z"
     description: Stores modbus readings in BigQuery
     digest: 59e36ed5222b82bcbf53bfc2dd0cd7e36ac069af7c4fc4d07060b61cfe5739ab
     home: https://helm.jorritsalverda.com
@@ -1032,7 +1032,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.2-rust
-    created: "2021-05-12T14:16:49.206009304Z"
+    created: "2021-05-12T14:28:24.038274712Z"
     description: Stores modbus readings in BigQuery
     digest: 805df803acbb8e2dbadf293d59011024fa4b5a1bb9eb9bb9ed9f0b7c69be15cd
     home: https://helm.jorritsalverda.com
@@ -1043,7 +1043,7 @@ entries:
     version: 0.1.2-rust
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2021-05-12T14:16:49.203969593Z"
+    created: "2021-05-12T14:28:24.032974985Z"
     description: Stores modbus readings in BigQuery
     digest: 6a310535975550a1416df9049e008049a6311d131f55d54ccac30136a3c29c44
     home: https://helm.jorritsalverda.com
@@ -1054,7 +1054,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.1-rust
-    created: "2021-05-12T14:16:49.201661268Z"
+    created: "2021-05-12T14:28:24.029631031Z"
     description: Stores modbus readings in BigQuery
     digest: 6ed6d170fb5d197357336154288b3e4f72939530c651fd96c5b697253d332283
     home: https://helm.jorritsalverda.com
@@ -1066,7 +1066,7 @@ entries:
   jarvis-uponor-smatrix-exporter:
   - apiVersion: v2
     appVersion: 0.1.10
-    created: "2021-05-12T14:16:49.222316598Z"
+    created: "2021-05-12T14:28:24.115760805Z"
     description: Stores Uponor Smatrix thermostat readings in BigQuery
     digest: c5f92db60bf9df0f3b8e696e9d49e6ca0b1505435aacd8a2141dfd8d57af4e22
     home: https://helm.jorritsalverda.com
@@ -1077,7 +1077,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.9
-    created: "2021-05-12T14:16:49.300873438Z"
+    created: "2021-05-12T14:28:24.1284322Z"
     description: Stores Uponor Smatrix thermostat readings in BigQuery
     digest: d4ff0ab9f3695fbefc4e1e86ebd9de59bcb66ae0518c6f29a9e18cb28357c79f
     home: https://helm.jorritsalverda.com
@@ -1088,7 +1088,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2021-05-12T14:16:49.233365204Z"
+    created: "2021-05-12T14:28:24.126899888Z"
     description: Stores Uponor Smatrix thermostat readings in BigQuery
     digest: 77ceaea0206203342f98d1df27dd3548c4f65b8f062ee5d015649fa64be74879
     home: https://helm.jorritsalverda.com
@@ -1099,7 +1099,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2021-05-12T14:16:49.231812504Z"
+    created: "2021-05-12T14:28:24.125316457Z"
     description: Stores Uponor Smatrix thermostat readings in BigQuery
     digest: 5f8a72b9027b11647585a90cae42bbe08ce77451643b5e5ea8b1639a824e9dcb
     home: https://helm.jorritsalverda.com
@@ -1110,7 +1110,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2021-05-12T14:16:49.230232697Z"
+    created: "2021-05-12T14:28:24.123776333Z"
     description: Stores Uponor Smatrix thermostat readings in BigQuery
     digest: 8e71bd2d0c74471ec1992249222636055e7e76188c0f9c6d7e60d3f8b41d2894
     home: https://helm.jorritsalverda.com
@@ -1121,7 +1121,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2021-05-12T14:16:49.228683945Z"
+    created: "2021-05-12T14:28:24.122130408Z"
     description: Stores Uponor Smatrix thermostat readings in BigQuery
     digest: 4862b52334b3a98795ad2d0eca7342e6865128974d4a4af45a189563180d8207
     home: https://helm.jorritsalverda.com
@@ -1132,7 +1132,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2021-05-12T14:16:49.227119774Z"
+    created: "2021-05-12T14:28:24.120601468Z"
     description: Stores Uponor Smatrix thermostat readings in BigQuery
     digest: a414a0511a76754d91c7c389eedc60491fa4a2a5837b6082530741064cd1e313
     home: https://helm.jorritsalverda.com
@@ -1143,7 +1143,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2021-05-12T14:16:49.225572174Z"
+    created: "2021-05-12T14:28:24.118875816Z"
     description: Stores Uponor Smatrix thermostat readings in BigQuery
     digest: ca45a7f1c5be197ff31bdcda134cd5a1c9dfa5154ccaca5058259441d0f3a8f6
     home: https://helm.jorritsalverda.com
@@ -1154,7 +1154,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2021-05-12T14:16:49.223984075Z"
+    created: "2021-05-12T14:28:24.117311452Z"
     description: Stores Uponor Smatrix thermostat readings in BigQuery
     digest: bdfccb3bfa20d5fbcafd275d14e7c6d4adcd1c75401989c7733e15095d54d13b
     home: https://helm.jorritsalverda.com
@@ -1166,7 +1166,7 @@ entries:
   p1-bigquery-exporter:
   - apiVersion: v2
     appVersion: 0.1.21
-    created: "2021-05-12T14:16:49.323872937Z"
+    created: "2021-05-12T14:28:24.209152209Z"
     description: Stores (Dutch) smart meter readings extracted via the P1 port in Google BigQuery
     digest: 3946b07f2763fa7f1a97a2a5ca2f36c81dd4c560a1035dc58074ce83d2d9688a
     home: https://helm.jorritsalverda.com
@@ -1177,7 +1177,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 0.1.20
-    created: "2021-05-12T14:16:49.319059969Z"
+    created: "2021-05-12T14:28:24.207356982Z"
     description: Stores (Dutch) smart meter readings extracted via the P1 port in Google BigQuery
     digest: cb0e0b4d63b01a15f797b75f09831001d09fe40c21a5729ec7218cf27da3e9f6
     home: https://helm.jorritsalverda.com
@@ -1188,7 +1188,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: 0.1.19
-    created: "2021-05-12T14:16:49.316850521Z"
+    created: "2021-05-12T14:28:24.141346015Z"
     description: Stores (Dutch) smart meter readings extracted via the P1 port in Google BigQuery
     digest: 2a7a95c5ec8167a8362a0cb999306b4d8e7bf8ae60f18899d59be456428eaa5a
     home: https://helm.jorritsalverda.com
@@ -1199,7 +1199,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.18
-    created: "2021-05-12T14:16:49.315116061Z"
+    created: "2021-05-12T14:28:24.139689193Z"
     description: Stores (Dutch) smart meter readings extracted via the P1 port in Google BigQuery
     digest: ebef8c48c15280b9b505b82410f15e5d86969f736c2adb36e7c2ade2bcf276e0
     home: https://helm.jorritsalverda.com
@@ -1210,7 +1210,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.17
-    created: "2021-05-12T14:16:49.313370237Z"
+    created: "2021-05-12T14:28:24.137928682Z"
     description: Stores (Dutch) smart meter readings extracted via the P1 port in Google BigQuery
     digest: a714c2bb938cc59707474b07d278d72b931bd8cd434fd2cb6c502e6b95da8dc3
     home: https://helm.jorritsalverda.com
@@ -1221,7 +1221,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.16
-    created: "2021-05-12T14:16:49.311626849Z"
+    created: "2021-05-12T14:28:24.136267948Z"
     description: Stores (Dutch) smart meter readings extracted via the P1 port in Google BigQuery
     digest: bf30267cd4bc70bed500b8876fe21cac99a75bf34ea4b2be1ac6357e72755101
     home: https://helm.jorritsalverda.com
@@ -1232,7 +1232,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.15
-    created: "2021-05-12T14:16:49.309505852Z"
+    created: "2021-05-12T14:28:24.134571131Z"
     description: A Helm chart for Kubernetes
     digest: e56508977ab6111f787c4cdb3fa9a2874f4bd467fbef31aea039637295b4ee80
     home: https://helm.jorritsalverda.com
@@ -1243,7 +1243,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.14
-    created: "2021-05-12T14:16:49.307146803Z"
+    created: "2021-05-12T14:28:24.132973853Z"
     description: A Helm chart for Kubernetes
     digest: da3e1ccdffb27826e32fb9a3c70bb2c053825a9d96ab99617bc5d7bc75cc548a
     home: https://helm.jorritsalverda.com
@@ -1254,7 +1254,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.13
-    created: "2021-05-12T14:16:49.304926652Z"
+    created: "2021-05-12T14:28:24.131438625Z"
     description: A Helm chart for Kubernetes
     digest: d59f10eecb7e8adcd5fc5e77d6c516e162c9a2b2c0e57c75e3f661e50bd5a561
     home: https://helm.jorritsalverda.com
@@ -1265,7 +1265,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.12
-    created: "2021-05-12T14:16:49.302974095Z"
+    created: "2021-05-12T14:28:24.129908425Z"
     description: A Helm chart for Kubernetes
     digest: 10c853578474e929e423307ed2058427f4d06fc31ebc726c2e205627f713c7a4
     home: https://helm.jorritsalverda.com
@@ -1277,7 +1277,7 @@ entries:
   sunny-bigquery-exporter:
   - apiVersion: v2
     appVersion: 0.1.11
-    created: "2021-05-12T14:16:49.328559979Z"
+    created: "2021-05-12T14:28:24.212328407Z"
     description: Stores SMA Sunny inverter readings in BigQuery
     digest: 2147bd623c9e6987759bdd91e3d74e9de68879ef405269c82cbf8801dc2ca0a3
     home: https://helm.jorritsalverda.com
@@ -1288,7 +1288,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.10
-    created: "2021-05-12T14:16:49.326149931Z"
+    created: "2021-05-12T14:28:24.21075568Z"
     description: Stores SMA Sunny inverter readings in BigQuery
     digest: 064421163c85ab6b3d5a9aa1bfdcc22df270b65933879954bcf2d21dbe37bad0
     home: https://helm.jorritsalverda.com
@@ -1299,7 +1299,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2021-05-12T14:16:49.336225319Z"
+    created: "2021-05-12T14:28:24.219984074Z"
     description: Stores SMA Sunny inverter readings in BigQuery
     digest: e402da3fd8d8c09814570e22122688c3ac37855fd509ac826e4c08c6011cf855
     home: https://helm.jorritsalverda.com
@@ -1310,7 +1310,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2021-05-12T14:16:49.334479171Z"
+    created: "2021-05-12T14:28:24.218453526Z"
     description: Stores SMA Sunny inverter readings in BigQuery
     digest: bebcd66c3af7f7834ba0cc585f724d28e166ec1ad81d4f5fb0c529ccaae7dc12
     home: https://helm.jorritsalverda.com
@@ -1321,7 +1321,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2021-05-12T14:16:49.333057677Z"
+    created: "2021-05-12T14:28:24.216847872Z"
     description: Stores SMA Sunny inverter readings in BigQuery
     digest: ab6a3b6c3a62c60e7b4fe0418497ff527049c81372c72fa8fe028de391ec0b42
     home: https://helm.jorritsalverda.com
@@ -1332,7 +1332,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2021-05-12T14:16:49.331545189Z"
+    created: "2021-05-12T14:28:24.215294128Z"
     description: Stores SMA Sunny inverter readings in BigQuery
     digest: e154eb1d5c940890636c61afc6195ea04ee6d2281a2514d1523563ee2b426e2b
     home: https://helm.jorritsalverda.com
@@ -1343,7 +1343,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2021-05-12T14:16:49.330009961Z"
+    created: "2021-05-12T14:28:24.213799004Z"
     description: Stores SMA Sunny inverter readings in BigQuery
     digest: 680a17894253428988f61f9f487d28233cd7243cadf6e1dae163879ba61eee8e
     home: https://helm.jorritsalverda.com
@@ -1355,7 +1355,7 @@ entries:
   tp-link-hs110-bigquery-exporter:
   - apiVersion: v2
     appVersion: 0.1.21
-    created: "2021-05-12T14:16:49.401084517Z"
+    created: "2021-05-12T14:28:24.228189356Z"
     description: Stores TP-Link HS110 Power Plugs energy usage readings in Google BigQuery
     digest: 35ca8cb2d8e4a6bff66be61fd8779ffd4ba2f1d1ae63d73feb8484e647395ae8
     home: https://helm.jorritsalverda.com
@@ -1366,7 +1366,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 0.1.20
-    created: "2021-05-12T14:16:49.399757414Z"
+    created: "2021-05-12T14:28:24.226827141Z"
     description: Stores TP-Link HS110 Power Plugs energy usage readings in Google BigQuery
     digest: 76779f9e3caed7a1a42e908624cb99566ca1f016d8e606dde2bc513af963cc85
     home: https://helm.jorritsalverda.com
@@ -1377,7 +1377,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: 0.1.19
-    created: "2021-05-12T14:16:49.398328612Z"
+    created: "2021-05-12T14:28:24.225434098Z"
     description: A Helm chart for Kubernetes
     digest: cea19c48d2584bdd1b7e9e67ce0c56adc75c2ff1a6a0546e73344e1a8c0aa5cf
     home: https://helm.jorritsalverda.com
@@ -1388,7 +1388,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.18
-    created: "2021-05-12T14:16:49.396998868Z"
+    created: "2021-05-12T14:28:24.224080295Z"
     description: A Helm chart for Kubernetes
     digest: df022b5e8b5ba7fb0405115680e8dcba45cc661eff80176c81c434e2f1286eed
     home: https://helm.jorritsalverda.com
@@ -1399,7 +1399,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.17
-    created: "2021-05-12T14:16:49.395454208Z"
+    created: "2021-05-12T14:28:24.222623714Z"
     description: A Helm chart for Kubernetes
     digest: d0ef83ddb908cc11e8235d1354dce2253e589d9a4b08c5d774f0f9ff6dc35b65
     home: https://helm.jorritsalverda.com
@@ -1410,7 +1410,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.16
-    created: "2021-05-12T14:16:49.337544299Z"
+    created: "2021-05-12T14:28:24.221344477Z"
     description: A Helm chart for Kubernetes
     digest: cb75f5ab55ad57ec290629497840fef6ea861879a3d45c6e83b9b311221f1486
     home: https://helm.jorritsalverda.com
@@ -1419,4 +1419,4 @@ entries:
     urls:
     - https://helm.jorritsalverda.com/charts/tp-link-hs110-bigquery-exporter-0.1.16.tgz
     version: 0.1.16
-generated: "2021-05-12T14:16:48.723453835Z"
+generated: "2021-05-12T14:28:23.597475433Z"
